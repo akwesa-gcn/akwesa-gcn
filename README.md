@@ -1,4 +1,5 @@
 ## Hi there 👋
+## 안녕하세요 인공지능학과 202333881 윤준혁 입니다.
 
 <!--
 **akwesa-gcn/akwesa-gcn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
